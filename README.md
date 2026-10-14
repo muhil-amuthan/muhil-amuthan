@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://muhil-amuthan-portfolio.vercel.app/">
+<a href="https://muhil-dev.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
