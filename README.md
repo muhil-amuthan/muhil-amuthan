@@ -1,104 +1,91 @@
- <div align="center">
+<div align="center">
 
-# 👋 Hey! Welcome to my profile — I'm Muhil Amuthan M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0A66C2&height=140&section=header&text=Muhil%20Amuthan%20M&fontSize=40&fontColor=ffffff&fontAlignY=38" alt="Header banner" />
 
-### 💡 `Code. Create. Innovate.`
+### `Code. Create. Innovate.`
 
-**AI/ML Enthusiast | Full-Stack Developer | IoT & Embedded Systems**
+**AI/ML Engineer in the making · Full-Stack Developer · IoT & Embedded Systems**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;IoT+%26+Embedded+Systems+Developer;Pre-Final+Year+ECE+Student;Building+Intelligent+Real-World+Solutions" alt="Typing SVG" />
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-00F5FF?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0A66C2?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-Builder-22C55E?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning;Full-Stack+Development;IoT+%26+Embedded+Systems;Building+Intelligent+Real-World+Solutions" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/muhil-amuthan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/muhil-amuthan-m">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://muhil-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
+  <a href="https://linkedin.com/in/muhil-amuthan-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://muhil-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/Muhil-Amuthan-M/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
-
-*🚀 Learning continuously. Building boldly. Solving real-world problems.*
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **pre-final-year Electronics & Communication Engineering student** passionate about combining software, AI, and hardware to build intelligent solutions.
+Pre-final-year **Electronics & Communication Engineering** student who likes combining software, AI, and hardware to build things that actually work.
 
-- 🤖 Exploring Machine Learning, predictive analytics, and intelligent systems.
-- 🌐 Building full-stack applications and interactive web experiences.
-- ⚡ Developing IoT and embedded systems for real-world applications.
-- 🧠 Strengthening Data Structures & Algorithms using Java.
-- 🌍 Working on AI-powered environmental monitoring and disaster early-warning systems.
-- 🎯 Focused on developing practical skills for AI/ML engineering roles.
-
-```text
-🎓  Pre-Final Year ECE Student
-🤖  AI & Machine Learning Enthusiast
-🌐  Full-Stack Developer
-⚡  IoT & Embedded Systems Developer
-💻  Java • Python • SQL
-🚀  Turning Ideas into Real-World Solutions
-```
+- 🤖 **AI/ML:** model training, evaluation, and deployment (including federated learning)
+- 🌐 **Full-stack:** React, TypeScript, FastAPI, Spring Boot, Firebase
+- ⚡ **IoT & embedded:** ESP32 and sensor-based systems
+- 🧠 **DSA:** solving problems in Java, one pattern at a time
+- 🎯 **Looking for:** software and AI/ML internship and placement opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,react,ts,html,css,js,spring,fastapi,flask,mysql,firebase,git,github,arduino,raspberrypi&perline=8" alt="Tech Stack" />
-</p>
+<div align="center">
+
+| Area | Tools |
+|---|---|
+| **Languages** | Java · Python · SQL · TypeScript · JavaScript · C |
+| **Frontend** | React · HTML · CSS |
+| **Backend** | FastAPI · Spring Boot · Flask · Firebase · MySQL |
+| **AI / ML** | scikit-learn · Pandas · NumPy · Deep Learning |
+| **Embedded / IoT** | ESP32 · Arduino · Raspberry Pi |
+| **Tools** | Git · GitHub |
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,c,react,spring,fastapi,flask,mysql,firebase,git,github,arduino,raspberrypi&perline=8" alt="Tech stack icons" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🌱 **CarbonWise** | AI-powered carbon intelligence and reduction platform |
-| 🛡️ **NetSentry-AI** | AI-assisted network security and threat analysis |
-| 🌍 **AI-Powered Environmental Monitoring** | IoT-based disaster monitoring and early-warning system |
-| 🎮 **AI Game Coach** | AI-powered game coaching application |
-| 📈 **Student CGPA Prediction** | Machine learning-based academic performance prediction |
-| 🍔 **Food Delivery Time Prediction** | ML-based delivery time estimation |
+| Project | What it does | Tech |
+|---|---|---|
+| 🌱 [**CarbonWise**](https://github.com/muhil-amuthan/CarbonWise) | Carbon intelligence dashboard with a scheduling advisor and analytics | React |
+| 🏥 [**FedMed-AI**](https://github.com/muhil-amuthan/FedMed-AI) | Federated learning for lung nodule detection | Python, ML |
+| 🛡️ [**NetSentry-AI**](https://github.com/muhil-amuthan/NetSentry-AI) | AI-assisted network security and threat analysis | Python, ML |
+| 🎮 [**AI-Game-Coach**](https://github.com/muhil-amuthan/AI-Game-Coach) | AI-powered game coaching application | AI |
+| 🌿 [**Plant-Disease-Detection**](https://github.com/muhil-amuthan/Plant-Disease-Detection-Using-Deep-Learning) | Detects plant diseases from leaf images | Deep Learning |
+| 📈 [**Student-CGPA-Prediction**](https://github.com/muhil-amuthan/Student-CGPA-Prediction) | Predicts academic performance | scikit-learn |
+| 🍔 [**Food-Delivery-Time-Prediction**](https://github.com/muhil-amuthan/Food-Delivery-Time-Prediction) | Estimates delivery time from order data | scikit-learn |
 
-Explore all my projects on [GitHub](https://github.com/muhil-amuthan).
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/Muhil-Amuthan-M/">
-    <img src="https://img.shields.io/badge/LeetCode-115%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-**Current focus:** Arrays, Strings, Hashing, Two Pointers, Binary Search, and core Data Structures & Algorithms.
+👉 More on my [repositories page](https://github.com/muhil-amuthan?tab=repositories).
 
 ---
 
-## 📊 GitHub Statistics
+## 💻 DSA & Problem Solving
+
+<a href="https://github.com/muhil-amuthan/Leetcode-DSA-Java"><img src="https://img.shields.io/badge/Solutions-Leetcode--DSA--Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Leetcode DSA Java" /></a>
+<a href="https://leetcode.com/u/Muhil-Amuthan-M/"><img src="https://img.shields.io/badge/LeetCode-115%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+
+**Current focus:** Arrays, Strings, Hashing, Two Pointers, Binary Search.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhil-amuthan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhil-amuthan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=muhil-amuthan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muhil-amuthan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhil-amuthan&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhil-amuthan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhil-amuthan&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</picture>
 
 </div>
 
@@ -106,19 +93,15 @@ Explore all my projects on [GitHub](https://github.com/muhil-amuthan).
 
 ## 🌱 Currently Learning
 
-- 🤖 Machine Learning — Regression, Classification, and Decision Trees
-- 🐍 Python for Data Science — NumPy, Pandas, Matplotlib, and Scikit-learn
-- 🗄️ SQL — Joins, Aggregations, and Subqueries
-- ⚡ IoT, Embedded Systems, and Edge AI
+- Advanced ML: model evaluation, deployment, and federated learning
+- Backend depth: Spring Boot and FastAPI projects
+- SQL for interviews: joins, aggregations, subqueries
+- Edge AI on ESP32 and embedded systems
 
 ---
 
 <div align="center">
 
-### 💬 *"Build things that matter. Learn things that last."*
-
-<img src="https://komarev.com/ghpvc/?username=muhil-amuthan&style=for-the-badge&color=00F5FF" alt="Profile Views" />
-
-**Thanks for visiting my profile! Let's connect and build something amazing. 🤝**
+**Open to internships and collaboration. Let's connect and build something. 🤝**
 
 </div>
